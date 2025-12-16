@@ -1,3 +1,8 @@
+# Base44 App
+
+
+This app was created automatically by Base44.
+It's a Vite+React app that communicates with the Base44 API.
 
 ## Running the app
 
@@ -11,3 +16,5 @@ npm run dev
 ```bash
 npm run build
 ```
+
+For more information and support, please contact Base44 support at app@base44.com.
